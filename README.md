@@ -33,10 +33,10 @@ Lors du traitement vidéo, l'exécution frame par frame à haute résolution ral
 ├── Perception_Video.py               # Script de détection sur fichier vidéo avec synchro FPS
 ├── Perception_Live.py                # Script de détection en temps réel via webcam
 ├── Video_Balle.mp4                   # Vidéo de test
-├── Balle_Base_Grand.jpg              # Image de test (grand format)
-├── Balle_Base_Petite.jpg             # Image de test (petit format)
-├── Balle_Main.jpg                    # Image de test (balle tenue en main)
-├── Balle_Multiple.jpg                # Image de test (plusieurs balles)
-├── Balle_Ombre.jpg                   # Image de test (avec zones d'ombre)
+├── Balle_Base_Grand.jpg              # Image de test 
+├── Balle_Base_Petite.jpg             # Image de test 
+├── Balle_Main.jpg                    # Image de test 
+├── Balle_Multiple.jpg                # Image de test 
+├── Balle_Ombre.jpg                   # Image de test 
 ├── Balle_Simple.jpg                  # Image de test (environnement simple)
 └── Benjamin Saigné Rapport Perception.pdf  # Rapport de projet complet
